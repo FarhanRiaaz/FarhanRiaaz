@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ArnoldNextG](https://www.arnoldnextg.com/) and [Imaada](https://imaada.com/)
   
-- 🌱 Enhancing my skills in Hexagonal Architecture and TDD (Ports and Adapters) after 7+ years of industry experience, to craft robust and scalable software solutions.
+- 🌱 Enhancing my skills in Hexagonal Architecture and TDD (Ports and Adapters).
   
 - 👨‍💻 All of my projects are available at [Top Projects](https://github.com/FarhanRiaaz?tab=repositories)
   
