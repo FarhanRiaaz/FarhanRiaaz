@@ -8,7 +8,7 @@
   
 - 🌱 Enhancing my skills in Hexagonal Architecture and TDD (Ports and Adapters).
   
-- 👨‍💻 All of my projects are available at [Top Projects](https://github.com/FarhanRiaaz?tab=repositories)
+- 👨‍💻 All of my projects are available at [github.io/farhanriaz](https://github.com/FarhanRiaaz?tab=repositories)
   
 - ❓ Ask me about anything related to <b>Flutter, Node.js, Android </b> and related technologies.
 
